@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marcin40
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning basics of Java and JS.
-- 💞️ I’m looking to collaborate on interesting projects in near future.
+- 💞️ I’m looking to collaborate on interesting projects in the near future.
 - 📫 How to reach me: marcin.laufer@gmail.com
 
 <!---
